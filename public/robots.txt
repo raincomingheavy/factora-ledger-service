@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /analytics
+Allow: /glossary
+Disallow: /admin
+Disallow: /api
+Disallow: /settings
+Disallow: /portfolio
+Disallow: /dashboard
